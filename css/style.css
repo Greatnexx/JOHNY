@@ -83,7 +83,7 @@ a:focus {
 }
 
 .header_section .container-fluid {
-  padding:0;
+  padding:25px 25px;
 }
 
 .header_section .header_top {
@@ -113,8 +113,7 @@ a:focus {
 }
 
 .navbar-brand {
-  padding-left: 30px;
-  padding-right: 30px;
+  
   margin: 0;
   color: #000000;
   font-weight: bold;
